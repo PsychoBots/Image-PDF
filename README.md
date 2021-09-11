@@ -15,3 +15,10 @@
  <br>
 
  <hr>
+ 
+ #### Credits 
+ ```sh
+ TG BOTS 
+ ```
+# ~Thanks...
+## [@Psycho_Bots](https://t.me/Psycho_Bots)
